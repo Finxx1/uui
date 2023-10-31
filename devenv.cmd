@@ -1,0 +1,2 @@
+@call ..\msvc\setup
+@cmd
